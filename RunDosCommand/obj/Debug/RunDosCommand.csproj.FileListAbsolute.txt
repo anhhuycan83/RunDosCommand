@@ -7,3 +7,6 @@ d:\huy\projects\RunDosCommand\RunDosCommand\RunDosCommand\obj\Debug\RunDosComman
 d:\huy\projects\RunDosCommand\RunDosCommand\RunDosCommand\obj\Debug\RunDosCommand.csproj.GenerateResource.Cache
 d:\huy\projects\RunDosCommand\RunDosCommand\RunDosCommand\obj\Debug\RunDosCommand.exe
 d:\huy\projects\RunDosCommand\RunDosCommand\RunDosCommand\obj\Debug\RunDosCommand.pdb
+D:\huy\GitHub\RunDosCommand\RunDosCommand\bin\Debug\RunDosCommand.exe.config
+D:\huy\GitHub\RunDosCommand\RunDosCommand\obj\Debug\RunDosCommand.exe
+D:\huy\GitHub\RunDosCommand\RunDosCommand\obj\Debug\RunDosCommand.pdb
