@@ -1,0 +1,9 @@
+d:\huy\projects\RunDosCommand\RunDosCommand\RunDosCommand\bin\Debug\RunDosCommand.exe.config
+d:\huy\projects\RunDosCommand\RunDosCommand\RunDosCommand\bin\Debug\RunDosCommand.exe
+d:\huy\projects\RunDosCommand\RunDosCommand\RunDosCommand\bin\Debug\RunDosCommand.pdb
+d:\huy\projects\RunDosCommand\RunDosCommand\RunDosCommand\obj\Debug\RunDosCommand.csprojResolveAssemblyReference.cache
+d:\huy\projects\RunDosCommand\RunDosCommand\RunDosCommand\obj\Debug\RunDosCommand.Form1.resources
+d:\huy\projects\RunDosCommand\RunDosCommand\RunDosCommand\obj\Debug\RunDosCommand.Properties.Resources.resources
+d:\huy\projects\RunDosCommand\RunDosCommand\RunDosCommand\obj\Debug\RunDosCommand.csproj.GenerateResource.Cache
+d:\huy\projects\RunDosCommand\RunDosCommand\RunDosCommand\obj\Debug\RunDosCommand.exe
+d:\huy\projects\RunDosCommand\RunDosCommand\RunDosCommand\obj\Debug\RunDosCommand.pdb
